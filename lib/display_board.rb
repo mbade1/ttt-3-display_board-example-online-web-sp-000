@@ -5,4 +5,7 @@ def display_board
   spaces
   lines
   spaces
+  lines
+  spaces
+  
 end
